@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.one{
+    color: rgb(252, 115, 24);
+}
